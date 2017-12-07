@@ -1,0 +1,19 @@
+{
+  "name": "mario-js",
+  "version": "0.0.0",
+  "description": "Mario game es6",
+  "main": "index.js",
+  "scripts": {
+    "start": "serve ./public",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "games",
+    "super-mario"
+  ],
+  "author": "Demyanyuk Igor",
+  "license": "ISC",
+  "devDependencies": {
+    "serve": "^6.4.1"
+  }
+}
